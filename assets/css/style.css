@@ -1,4 +1,32 @@
+body {
+background: lightgrey;
+background-image: url("http://www.safari-tails.com/img/landing-bg.jpg");
+}
+
+
 h1 {
-	background: blue;
+	background: tan;
 	font-size: 100px;
+	margin: 20px;
+}
+
+h2 {
+	font-family: impact;
+	font-size: 30px;
+
+}
+
+.container {
+	align-self: center;
+
+}
+
+#quiz-page{
+	background:tan;
+}
+
+#start{
+	padding: 10px;
+	font-size: 40px;
+
 }
